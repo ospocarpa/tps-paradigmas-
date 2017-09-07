@@ -1,0 +1,40 @@
+Ejercicio 
+Huevos de Pascua
+
+Unos chicos salen de cacería de huevos para pascuas, y están dispuestos a comérselos todos.
+
+
+Primera parte
+
+Los huevos comprados son los siguientes:
+
+Huevo repostero: Está hecho de chocolate blanco y aporta 750 calorías.
+Huevo mixto: Tiene 400 calorías de chocolate con leche y 500 calorías de chocolate blanco.
+Conejo de chocolate: Es de chocolate amargo y tiene diez veces su peso en calorías.
+Huevito en blister: Trae un número arbitrario de huevos de chocolate con leche, que dan 100 calorías cada uno. Por cada 5 huevos de chocolate con leche se incluye de regalo uno de chocolate blanco que tiene 150 calorías.
+Matrioshka: De base, es chocolate amargo y tiene 3000 calorias. Viene con dos decoraciones posibles en chocolate con leche: árbol o flor. El árbol tiene 150 calorías adicionales, mientras que la flor viene en diferentes tamaños y tiene 100 calorías por cada pétalo. Además viene con otro huevo (de los descritos antes) adentro.
+
+Cada chico tiene su preferencia: 
+Ana es alérgica al chocolate amargo, así que no le gusta ningún huevo que lo tenga. 
+A José le gustan todos los que tengan algo de chocolate blanco, pero que sean de menos de 400 calorias. 
+A Tito le gusta todo.
+
+1) Calcular la cantidad de calorías de cada huevo
+2) Saber si a un chico le gusta un huevo. 
+3) Hacer las pruebas necesarias para cubrir los diferentes casos posibles
+
+
+Segunda parte 
+
+En la cacería, se esconden en el terreno todos los huevos y los chicos los van buscando. Cada chico, cuando encuentra un huevo se lo come y por lo tanto, ya no se lo busca más. Pero como todos sabemos, comer demasiado chocolate puede hacer mal a algunas personas. Se quiere representar el desarrollo del juego y analizar si los chicos quedan enfermos luego de terminado la cacería.
+
+Averiguar cuántos huevos falta encontrar.
+Hacer que un chico encuentre el primero de los huevos escondidos
+Hacer que un chico encuentre un huevo en particular
+Hacer que un chico encuentre todos los huevos restantes
+Averiguar si un chico está enfermo 
+Ana aguanta hasta 5000 calorías, contemplando todos los huevos que comió, pero el chocolate blanco le cae mal, con que haya uno de los huevos que comió que tenga chocolate blanco, ya se enferma. 
+José no tiene acumulativo, cada nuevo nuevo que se come le hace olvidar los que se comió antes. Pero si el último que se comió tiene chocolate amargo, le hace mal.
+Tito nunca se enferma, puede comer de todo y le cae siempre bien. 
+
+Hacer las pruebas necesarias para cubrir los diferentes casos posibles
